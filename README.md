@@ -1,16 +1,14 @@
 ### Hi there 👋
+^_^
+- 🌱 Python 
+- 😄 Pronouns: Ela/dela
 
-<!--
-**Ana8796/Ana8796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div>
+  <img alig="center" alt="Ana-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
+</div>
+<div>
+  <a href="www.linkedin.com/in/ana-caroline-dos-santos-ribeiro-b12b912ba"><img alig="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
+          
+</div>
