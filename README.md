@@ -1,21 +1,9 @@
 Hi there 👋 ^_^
 
-Backend Developer | Python | Laravel | PHP | MySQL | Future Project Manager
+Backend Developer | Python | Laravel | PHP | MySQL | FLUTTER | API | Future Project Manager
 
 ✨ Sobre mim:
 Sou apaixonada por tecnologia e desenvolvimento backend, sempre buscando aprender e contribuir com projetos inovadores. Atualmente, busco oportunidades para crescer no desenvolvimento backend enquanto me preparo para me tornar Gerente de Projetos. Quero alinhar tecnologia, processos ágeis e gestão de equipes para criar soluções incríveis!
-
-💻 Tecnologias:
-
-🌱 Python 
-
-🚀 Laravel | PHP 
-
-📊 MySQL 
-
-🔄 APIs & Sistemas 
-
-📱 Flutter 
 
 💡 Open to:
 
