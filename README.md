@@ -4,7 +4,7 @@
 - 😄 Pronouns: Ela/dela
 - 📊 Experiência em banco de dados MySQL
 - 🔄 Integração com APIs e sistemas
-- 🚀 Projetos com Laravel, PHP e Python
+- 🚀 Projetos com Laravel, PHP, Python, Flutter
 
 ##
 <div>
