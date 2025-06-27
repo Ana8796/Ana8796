@@ -14,4 +14,7 @@ Networking com devs e futuros gestores de projetos
 Trocar ideias sobre carreira em tech
 
 
-<div style="display: flex; gap: 10px;"> <a href="https://www.linkedin.com/in/ana-caroline-dos-santos-ribeiro-b12b912ba/"> <img align="center" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> </a> <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> </div>
+<div>
+  <a href="https://www.linkedin.com/in/ana-caroline-dos-santos-ribeiro-b12b912ba/"><img alig="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
+          
+</div>
